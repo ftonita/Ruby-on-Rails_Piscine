@@ -1,0 +1,1 @@
+curl -sLI $@ | grep -i Location | cut -f 2 -d ' '

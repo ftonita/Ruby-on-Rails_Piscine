@@ -1,0 +1,17 @@
+h1 {
+	font-family: 'Courier New', Courier, monospace;
+	margin-left: 5%;
+}
+
+form {
+	font-family: 'Courier New', Courier, monospace;
+	text-align: center;
+}
+
+table, tr, td, thead, tbody{
+	margin-left: 5%;
+	border-collapse: collapse;
+	border: 3px solid #ffffff;
+	background-color: #aaaaaa;
+	font-family: 'Courier New', Courier, monospace;
+}

@@ -1,0 +1,25 @@
+h1 {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table {
+	border: 2px solid;
+	border-color: wheat;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+td {
+    border: 1px solid;
+	border-color: aquamarine;
+}
+
+thead,
+tfoot {
+    background-color: #810081;
+    color: #fff;
+}
+
+#spec{
+	border-color: #424242;
+	border-bottom: 1px;
+	background-color: grey;
+}
